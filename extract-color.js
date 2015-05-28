@@ -25,6 +25,6 @@ function extractColor(comment) {
     return 'black';
   }
 
-
+  
   return null;
 }
