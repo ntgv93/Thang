@@ -1,3 +1,4 @@
+// added from ntg81
 var should = require('should');
 var extractColor = require('./extract-color.js');
 var mocha = require('mocha');
